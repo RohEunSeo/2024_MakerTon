@@ -44,4 +44,4 @@ https://github.com/user-attachments/assets/fcf8d69b-eb8b-46f0-9701-4cd89d1f1a09
 
 🔗 https://www.dailysmart.co.kr/news/articleView.html?idxno=90597
 
-#### ⭐ 특허 출원 진행중 (출원 일자 | 2024.08.06) 
+#### ⭐ 특허 출원 진행 중 (출원 일자 | 2024.08.06) 
