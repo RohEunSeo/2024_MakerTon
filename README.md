@@ -1,6 +1,15 @@
 # 2024 RE-DESIGN THON 
 - 주최 : 서울과학기술대학교 창업지원단
 - 주제 : 리-디자인(기능/디자인)을 주제로 HW가 포함된 아이디어 제품
+### 🏆 대상 수상
+
+🔗 https://www.donga.com/news/It/article/all/20240709/125850045/1
+
+🔗 https://www.dailysmart.co.kr/news/articleView.html?idxno=90597
+
+### ⭐ 특허 출원 진행 중 (출원 일자 | 2024.08.06) 
+<br>
+
 
 
 ## 📌 아이디어 배경 
@@ -37,11 +46,3 @@
 https://github.com/user-attachments/assets/fcf8d69b-eb8b-46f0-9701-4cd89d1f1a09
 
 
-## 📌 성과
-#### ⭐ 대상 수상
-
-🔗 https://www.donga.com/news/It/article/all/20240709/125850045/1
-
-🔗 https://www.dailysmart.co.kr/news/articleView.html?idxno=90597
-
-#### ⭐ 특허 출원 진행 중 (출원 일자 | 2024.08.06) 
